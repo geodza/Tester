@@ -1,4 +1,4 @@
-# **Tester: user manual
+# Tester: user manual
 
 ---
 
