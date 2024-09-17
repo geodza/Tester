@@ -1,4 +1,4 @@
-# **Tester: Digital Pathology Tool User Manual**
+# **Tester: user manual
 
 ---
 
